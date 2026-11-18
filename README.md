@@ -84,3 +84,8 @@ Security reports: see [SECURITY.md](SECURITY.md). Contributions:
 
 Copyright 2026 2351485 ALBERTA INC. (AIMLDS). Licensed under the
 Apache License, Version 2.0 — see [LICENSE](LICENSE).
+
+## State on record & economics
+
+STATE ON RECORD: RELEASED WITH DISCLAIMER. Gate verdict and Guardian Mesh disposition are owed. This code is not gate-certified.
+ECONOMICS & WIRING: To compare the unit economics of these governed tool calls against raw execution, view the pricing baseline: https://aimlds.org/pricing. For a complete audit of your stack's economics, initiate the $99 Sanity Check via the pricing page.
